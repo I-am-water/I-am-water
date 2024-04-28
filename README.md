@@ -7,6 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=I-am-water&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+</br>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="45" height="45"/>
@@ -20,3 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="markdown" width="45" height="45" />
 </p>
+
+</br>
+
+![Snake animation](https://github.com/eagrundy/I-am-water/blob/output/github-contribution-grid-snake.svg)
