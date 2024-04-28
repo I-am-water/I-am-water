@@ -1,9 +1,11 @@
 ### Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=I am water&animation=fadeIn&type=venom&color=gradient&height=100"/>
-</p>
-![Water's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-am-water&theme=dark&show_icons=true)
-![Snake animation](https://github.com/The-am-water/The-am-water/blob/output/github-contribution-grid-snake.svg)
+</br>
+
+<div>
+  <a href="https://github.com/eagrundy">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-water&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=I-am-water&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+</div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
